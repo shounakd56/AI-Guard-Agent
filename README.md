@@ -144,7 +144,7 @@ Speak “guard my room” to activate monitoring.
 
 ### Demo Videos & Report
 
-For full system design, architecture diagrams, prompt engineering details, and experimental analysis, refer to the attached course report. 
+For full system design, architecture diagrams, prompt engineering details, and experimental analysis, refer to the attached project report. 
 
 The demo video files, report as well as the .ipynb file are also available in the folder at link: https://drive.google.com/drive/folders/1MHId4pu_w-8rv-kH3ZC9el-CNP6221AT?usp=drive_link
 
